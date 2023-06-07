@@ -15,3 +15,4 @@
 15 cp -un*.html ../ :  script that copies all the HTML files from the current working directory
 16 mv [[:upper:]]* /tmp/u : script that moves all files beginning with an uppercase letter to the directory
 17 rm *~ :  script that delete all the files in the current directory starting with ~
+18 mkdir -p welscome/to/school : script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
