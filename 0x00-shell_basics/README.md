@@ -9,3 +9,4 @@
 9 rm /tmp/my_first_directory/betty: delete betty from /tmp/my_first_directory
 10. rm -r /tmp/my_first_directory : removing a directory from the /tmp
 11. cd - : to navigate back to previous directory
+12. ls -al . .. /boot : list all files including hidden and current and parent directory and in /boot
