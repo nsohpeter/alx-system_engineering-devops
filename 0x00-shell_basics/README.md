@@ -12,3 +12,4 @@
 12. ls -al . .. /boot : list all files including hidden and current and parent directory and in /boot
 13 file /tmp/iamafile : script that prints the type of the file named iamafile in /tmp diectory
 14 ln -s /bin/ls __ls__ : Script that create symbolic link
+15 cp -un*.html ../ :  script that copies all the HTML files from the current working directory
