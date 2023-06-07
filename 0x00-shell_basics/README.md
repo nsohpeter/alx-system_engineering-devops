@@ -5,3 +5,4 @@
 5 LS -a : Display current directory contents, including hidden files
 6 ls -lan : display current directory content with group IDS display numerically and with hidden files
 7 mkdir /tmp/ newdirectory : Create a script that creates a directory in the /tmp/ directory.
+8 mv /tmp/betty /tmp/my_first_directory : moving from one folder to another
