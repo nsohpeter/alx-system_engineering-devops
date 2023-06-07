@@ -7,3 +7,4 @@
 7 mkdir /tmp/ newdirectory : Create a script that creates a directory in the /tmp/ directory.
 8 mv /tmp/betty /tmp/my_first_directory : moving from one folder to another
 9 rm /tmp/my_first_directory/betty: delete betty from /tmp/my_first_directory
+10. rm -r /tmp/my_first_directory : removing a directory from the /tmp
