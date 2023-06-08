@@ -17,4 +17,4 @@
 17 rm *~ :  script that delete all the files in the current directory starting with ~
 18 mkdir -p welscome/to/school : script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 19. ls -amvp : command that lists all the files and directorie bggining with slace ..
-20. 0 string SCHOOL school data !:mime school : creating a magic file
+
